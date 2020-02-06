@@ -1,2 +1,8 @@
 /* Feuille de style pour fichier index.html */
 /* Fichier recu sur github */
+
+body{
+	background : black;
+	width : 1024px;
+}
+
